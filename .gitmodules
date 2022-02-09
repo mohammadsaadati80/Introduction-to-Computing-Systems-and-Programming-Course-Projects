@@ -1,0 +1,12 @@
+[submodule "CA#1"]
+	path = CA#1
+	url = https://github.com/mohammadsaadati80/Tic-Tac-Toe
+[submodule "CA#2 Phase#1"]
+	path = CA#2 Phase#1
+	url = https://github.com/mohammadsaadati80/Othello
+[submodule "CA#2 Phase#2"]
+	path = CA#2 Phase#2
+	url = https://github.com/mohammadsaadati80/Othello-GUI
+[submodule "CA#3"]
+	path = CA#3
+	url = https://github.com/mohammadsaadati80/Tic-Tac-Toe

@@ -10,3 +10,6 @@
 [submodule "CA3"]
 	path = CA3
 	url = https://github.com/mohammadsaadati80/Tic-Tac-Toe
+[submodule "Tic-Tac-Toe"]
+	path = Tic-Tac-Toe
+	url = https://github.com/mohammadsaadati80/Tic-Tac-Toe.git

@@ -7,3 +7,6 @@
 [submodule "CA2P2"]
 	path = CA2P2
 	url = https://github.com/mohammadsaadati80/Othello-GUI.git
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/mohammadsaadati80/UT-Bank.git

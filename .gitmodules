@@ -4,7 +4,7 @@
 [submodule "CA2P1"]
 	path = CA2P1
 	url = https://github.com/mohammadsaadati80/Othello
-[submodule "CA2P"]
+[submodule "CA2P2"]
 	path = CA2P2
 	url = https://github.com/mohammadsaadati80/Othello-GUI
 [submodule "CA3"]
